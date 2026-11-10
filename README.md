@@ -1,6 +1,6 @@
 # Gupta Optician — Dewas
 
-A simple, mobile-first website for Gupta Optician, an optical shop in Dewas, Madhya Pradesh, India. It covers two stores: the flagship shop in Alankar Market on MG Road, and the new branch on AB Road, near Abhilasha Hotel.
+A simple, mobile-first website for Gupta Optician, an optical shop in Dewas, Madhya Pradesh, India. It covers two stores: the original shop in Alankar Market on MG Road, and the new shop on AB Road, near Abhilasha Hotel.
 
 This is a static site: open `index.html` in a browser, or serve the folder with any static file server. There is no build step.
 
@@ -31,7 +31,7 @@ Please read `NOTES.md` before adding new claims. Do not publish email addresses,
 
 # गुप्ता ऑप्टिशियन — देवास
 
-यह देवास, मध्य प्रदेश की ऑप्टिकल दुकान गुप्ता ऑप्टिशियन की एक सरल, मोबाइल-अनुकूल वेबसाइट है। इसमें दो दुकानें हैं: एम.जी. रोड, अलंकार मार्केट की मुख्य दुकान, और ए.बी. रोड पर, अभिलाषा होटल के पास की नई शाखा।
+यह देवास, मध्य प्रदेश की ऑप्टिकल दुकान गुप्ता ऑप्टिशियन की एक सरल, मोबाइल-अनुकूल वेबसाइट है। इसमें दो दुकानें हैं: एम.जी. रोड, अलंकार मार्केट की पुरानी दुकान, और ए.बी. रोड पर, अभिलाषा होटल के पास की नई दुकान।
 
 यह एक स्थिर (स्टैटिक) साइट है। `index.html` को ब्राउज़र में खोलें, या इस फ़ोल्डर को किसी भी स्टैटिक सर्वर से चलाएँ। कोई बिल्ड स्टेप नहीं है।
 

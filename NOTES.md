@@ -7,7 +7,7 @@ Every factual claim on the public pages is listed below with its source. Anythin
 - **Shop 1 Google listing** (also indexed at [exa.ai/library/place/0m4zst9q4hz](https://exa.ai/library/place/0m4zst9q4hz)): Gupta Optician & Contact Lens Center, 29 MG Rd, Alankar Market, Old Town, Dewas 455001; phone +91 76111 66604; hours; coordinates 22.964644, 76.05469; public reviews.
 - **Shop 2 Google listing** (also indexed at [exa.ai/library/place/hfcnrqby783](https://exa.ai/library/place/hfcnrqby783)): Gupta Optician, 6A AB Rd, near Abhilasha Hotel, Dewas 455001; phone +91 76111 66605; hours; coordinates 22.961918, 76.045465; public reviews.
 - **GST record** on [GSTPAN](https://gstpan.com/gst/23ADUPG9120C1ZS-gupta-optician): GSTIN 23ADUPG9120C1ZS, legal name DHARMENDRA GUPTA, trade name GUPTA OPTICIAN, sole proprietorship, registered address Alankar Market, Dewas, Madhya Pradesh, nature of business retail, registration dated 1 July 2017.
-- **Site owner (Gaurav Gupta):** the AB Road shop is the new branch; Alankar Market is the original / flagship store.
+- **Site owner (Gaurav Gupta):** the AB Road shop is the new shop; Alankar Market is the original shop.
 - **Deldure directory:** corroborates the Alankar Market address (29, Alankar Market, Dewas 455001). Not used as a sole source.
 
 ## Facts used on the site
@@ -15,24 +15,24 @@ Every factual claim on the public pages is listed below with its source. Anythin
 | Fact on the site | Source |
 | --- | --- |
 | Business name Gupta Optician / गुप्ता ऑप्टिशियन | GST trade name; both Google listings |
-| Flagship listed name: Gupta Optician & Contact Lens Center | Shop 1 Google listing |
+| Original shop listed name: Gupta Optician & Contact Lens Center | Shop 1 Google listing |
 | City and state: Dewas, Madhya Pradesh, PIN 455001 | Both Google listings; GST address |
-| Flagship address: 29 MG Road, Alankar Market, Old Town | Shop 1 Google listing |
-| Flagship phone: +91 76111 66604 | Shop 1 Google listing |
-| Flagship hours: Mon–Sat 10:30 AM–8:30 PM; Sun 11:00 AM–7:00 PM | Shop 1 Google listing |
-| Flagship map coordinates: 22.964644, 76.05469 | Shop 1 Google listing |
-| New store listed name: Gupta Optician, AB Road | Shop 2 Google listing |
-| New store address: 6A AB Road, near Abhilasha Hotel | Shop 2 Google listing |
-| New store phone: +91 76111 66605 | Shop 2 Google listing |
-| New store hours: Mon–Sat 10:30 AM–9:00 PM; Sun 11:00 AM–8:00 PM | Shop 2 Google listing |
-| New store map coordinates: 22.961918, 76.045465 | Shop 2 Google listing |
-| Alankar Market is the original / flagship store; AB Road is the new branch (“Now open”) | Site owner |
-| Eye testing is mentioned for the flagship store | Shop 1 Google review: “also you can test your eyes here...” |
-| Flagship is listed as a Contact Lens Center | Shop 1 listed business name |
+| Original shop address: 29 MG Road, Alankar Market, Old Town | Shop 1 Google listing |
+| Original shop phone: +91 76111 66604 | Shop 1 Google listing |
+| Original shop hours: Mon–Sat 10:30 AM–8:30 PM; Sun 11:00 AM–7:00 PM | Shop 1 Google listing |
+| Original shop map coordinates: 22.964644, 76.05469 | Shop 1 Google listing |
+| New shop listed name: Gupta Optician, AB Road | Shop 2 Google listing |
+| New shop address: 6A AB Road, near Abhilasha Hotel | Shop 2 Google listing |
+| New shop phone: +91 76111 66605 | Shop 2 Google listing |
+| New shop hours: Mon–Sat 10:30 AM–9:00 PM; Sun 11:00 AM–8:00 PM | Shop 2 Google listing |
+| New shop map coordinates: 22.961918, 76.045465 | Shop 2 Google listing |
+| Alankar Market is the original shop; AB Road is the new shop (“Now open”) | Site owner |
+| Eye testing is mentioned for the original shop | Shop 1 Google review: “also you can test your eyes here...” |
+| The original shop is listed as a Contact Lens Center | Shop 1 listed business name |
 | Spectacles and frames at both stores | Google reviews of both shops |
-| Goggles mentioned at the flagship | Shop 1 Google review |
+| Goggles mentioned at the original shop | Shop 1 Google review |
 | Frame and sunglass collection mentioned at AB Road | Shop 2 Google reviews |
-| Advice on power lenses mentioned at the flagship | Shop 1 Google review: “Good advice in power lens Good quality products” |
+| Advice on power lenses mentioned at the original shop | Shop 1 Google review: “Good advice in power lens Good quality products” |
 | Four review quotes, shown verbatim | Shop 1 and Shop 2 Google listings (see below) |
 | Proprietor: Dharmendra Gupta / धर्मेन्द्र गुप्ता | GST legal name |
 | Sole proprietorship | GST record |

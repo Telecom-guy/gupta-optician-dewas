@@ -5,8 +5,8 @@
     hi: "गुप्ता ऑप्टिशियन | देवास, मध्य प्रदेश"
   };
   var descriptions = {
-    en: "Gupta Optician is an optical shop in Dewas, Madhya Pradesh, with a flagship store in Alankar Market on MG Road and a new store on AB Road, near Abhilasha Hotel.",
-    hi: "गुप्ता ऑप्टिशियन देवास, मध्य प्रदेश की ऑप्टिकल दुकान है। मुख्य दुकान एम.जी. रोड, अलंकार मार्केट में है, और नई दुकान ए.बी. रोड पर, अभिलाषा होटल के पास है।"
+    en: "Gupta Optician is an optical shop in Dewas, Madhya Pradesh, with our original shop in Alankar Market on MG Road and our new shop on AB Road, near Abhilasha Hotel.",
+    hi: "गुप्ता ऑप्टिशियन देवास, मध्य प्रदेश की ऑप्टिकल दुकान है। पुरानी दुकान एम.जी. रोड, अलंकार मार्केट में है, और नई दुकान ए.बी. रोड पर, अभिलाषा होटल के पास है।"
   };
 
   function currentLang() {
