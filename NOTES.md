@@ -73,3 +73,5 @@ Quotes are not translated, edited, or given star counts or review totals on the 
 The Hindi tagline “साफ़ नज़र, सुंदर अंदाज़” and the English tagline “Clear sight, a graceful look” were written for this website. They are not a documented shop slogan.
 
 Photographs are free stock images, not pictures of these shops. A short credit on the page says so. Map tiles are from OpenStreetMap.
+
+Visitor analytics: GoatCounter, account guptaoptician (owner mailbox.gupta@gmail.com), dashboard https://guptaoptician.goatcounter.com (public).
