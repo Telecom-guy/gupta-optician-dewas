@@ -721,6 +721,63 @@ a:hover {
   font-family: var(--font-sans);
 }
 
+
+/* Rate us on Google
+   ========================================================================== */
+
+.rate-us {
+  background: var(--cream);
+}
+
+.rate-grid {
+  display: grid;
+  gap: 20px;
+}
+
+.rate-card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 24px 20px 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.rate-card.is-new {
+  border-color: rgba(196, 161, 90, 0.45);
+}
+
+.rate-card h3 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.55rem;
+  font-weight: 600;
+  color: var(--navy);
+  line-height: 1.2;
+}
+
+.rate-addr {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.rate-qr {
+  width: min(100%, 340px);
+  height: auto;
+  margin: 16px 0 18px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.rate-card .btn {
+  width: min(100%, 280px);
+}
+
 /* Contact
    ========================================================================== */
 
@@ -924,7 +981,8 @@ a:hover {
 
   .location-grid,
   .contact-grid,
-  .review-grid {
+  .review-grid,
+  .rate-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 

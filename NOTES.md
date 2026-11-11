@@ -7,6 +7,9 @@ Every factual claim on the public pages is listed below with its source. Anythin
 - **Shop 1 Google listing** (also indexed at [exa.ai/library/place/0m4zst9q4hz](https://exa.ai/library/place/0m4zst9q4hz)): Gupta Optician & Contact Lens Center, 29 MG Rd, Alankar Market, Old Town, Dewas 455001; phone +91 76111 66604; hours; coordinates 22.964644, 76.05469; public reviews.
 - **Shop 2 Google listing** (also indexed at [exa.ai/library/place/hfcnrqby783](https://exa.ai/library/place/hfcnrqby783)): Gupta Optician, 6A AB Rd, near Abhilasha Hotel, Dewas 455001; phone +91 76111 66605; hours; coordinates 22.961918, 76.045465; public reviews.
 - **GST record** on [GSTPAN](https://gstpan.com/gst/23ADUPG9120C1ZS-gupta-optician): GSTIN 23ADUPG9120C1ZS, legal name DHARMENDRA GUPTA, trade name GUPTA OPTICIAN, sole proprietorship, registered address Alankar Market, Dewas, Madhya Pradesh, nature of business retail, registration dated 1 July 2017.
+- **Google Place IDs** (verified 11 Nov 2026, America/Chicago), used only for the “Rate us on Google” QR codes and review buttons:
+  - **Original shop (Alankar Market):** Place ID `ChIJY6UMu5EXYzkRJWK_Vfx80YI`. Google’s local-maps card and `https://search.google.com/local/reviews?placeid=ChIJY6UMu5EXYzkRJWK_Vfx80YI` identify this as Gupta Optician & Contact Lens Center, 29, MG Rd, Alankar Market, Old Town, Dewas, Madhya Pradesh 455001, phone +91 76111 66604, coordinates 22.964644, 76.05469. The Maps feature ID is `0x39631791bb0ca563:0x82d17cfc55bf6225` (CID 9426452918275367461).
+  - **New shop (AB Road):** Place ID `ChIJKew3TyoXYzkReS9IRHBXhws`. Opening `https://www.google.com/maps?cid=830728795966680953` shows Gupta Optician (गुप्ता ऑप्टिशियन) at 6 A, AB Rd, near ABHILASHA HOTEL, Dewas, Madhya Pradesh 455001, phone +91 76111 66605, coordinates 22.9619124, 76.0454673 (matching the previously sourced 22.961918, 76.045465). Google’s reviews URL for this Place ID redirects to the same listing (feature ID `0x3963172a4f37ec29:0xb87577044482f79`, feature path `/g/11y245pjvw`).
 - **Site owner (Gaurav Gupta):** the AB Road shop is the new shop; Alankar Market is the original shop.
 - **Deldure directory:** corroborates the Alankar Market address (29, Alankar Market, Dewas 455001). Not used as a sole source.
 
@@ -27,6 +30,8 @@ Every factual claim on the public pages is listed below with its source. Anythin
 | New shop hours: Mon–Sat 10:30 AM–9:00 PM; Sun 11:00 AM–8:00 PM | Shop 2 Google listing |
 | New shop map coordinates: 22.961918, 76.045465 | Shop 2 Google listing |
 | Alankar Market is the original shop; AB Road is the new shop (“Now open”) | Site owner |
+| Google “write a review” link and QR for the original shop | Place ID `ChIJY6UMu5EXYzkRJWK_Vfx80YI`; URL `https://search.google.com/local/writereview?placeid=ChIJY6UMu5EXYzkRJWK_Vfx80YI` (HTTP 200; reviews redirect names the Alankar Market listing) |
+| Google “write a review” link and QR for the new shop | Place ID `ChIJKew3TyoXYzkReS9IRHBXhws`; URL `https://search.google.com/local/writereview?placeid=ChIJKew3TyoXYzkReS9IRHBXhws` (HTTP 200; reviews redirect names the AB Road listing) |
 | Eye testing is mentioned for the original shop | Shop 1 Google review: “also you can test your eyes here...” |
 | The original shop is listed as a Contact Lens Center | Shop 1 listed business name |
 | Spectacles and frames at both stores | Google reviews of both shops |

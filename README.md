@@ -10,6 +10,7 @@ This is a static site: open `index.html` in a browser, or serve the folder with 
 - Call buttons and Google Maps directions for both stores.
 - Service descriptions limited to what public listings and reviews actually support.
 - Verbatim Google review quotes.
+- A “Rate us on Google / Google पर रेटिंग दें” section, with a verified QR code and a review button for each shop.
 - A language toggle that works without reloading the page.
 
 ## Languages
@@ -19,7 +20,7 @@ Use the **हिंदी / English** control in the header (it stays visible on
 ## Local files
 
 - `index.html`, `styles.css`, `script.js`, `favicon.svg` — the site
-- `images/` — stock photographs and static maps
+- `images/` — stock photographs, static maps, and Google-review QR cards (`images/qr/`)
 - `NOTES.md` — every factual claim and its source
 - `screenshots/` — preview captures
 
@@ -41,6 +42,7 @@ Please read `NOTES.md` before adding new claims. Do not publish email addresses,
 - दोनों दुकानों के लिए कॉल बटन और गूगल मैप का रास्ता।
 - सेवाओं का वर्णन केवल उन्हीं बातों तक सीमित है, जिनका समर्थन सार्वजनिक लिस्टिंग और समीक्षाएँ करती हैं।
 - गूगल समीक्षाओं के अंश जैसे के तैसे।
+- “Rate us on Google / Google पर रेटिंग दें” खंड, प्रत्येक दुकान के लिए जाँचा हुआ क्यूआर कोड और समीक्षा बटन के साथ।
 - भाषा बदलने पर पेज दोबारा लोड नहीं होता।
 
 ## भाषा
@@ -50,7 +52,7 @@ Please read `NOTES.md` before adding new claims. Do not publish email addresses,
 ## फ़ाइलें
 
 - `index.html`, `styles.css`, `script.js`, `favicon.svg` — साइट
-- `images/` — स्टॉक तस्वीरें और स्थिर नक्शे
+- `images/` — स्टॉक तस्वीरें, स्थिर नक्शे, और गूगल समीक्षा के क्यूआर कार्ड (`images/qr/`)
 - `NOTES.md` — प्रत्येक तथ्य और उसका स्रोत
 - `screenshots/` — पूर्वावलोकन चित्र
 
